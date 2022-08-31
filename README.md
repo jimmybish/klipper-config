@@ -1,5 +1,5 @@
 # klipper-config
-Klipper Config for my Enter 3 v2
+Klipper Config for my Ender 3 v2
 
 Upgrades:
 - Klipper firmware
